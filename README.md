@@ -38,6 +38,10 @@ Solo project executed from **March 2025 to July 2025**
 ## 🔒 Data Privacy
 All personal and sensitive data (student names, IDs, Phone Numbers etc.) have been randomized or masked or Removed. The dashboard reflects real structure and patterns without exposing actual identities.
 
+📂 Data & Workbook Files
+- `student_dataset_ap_2025-26.xlsx` – Cleaned, anonymized academic data used in dashboard
+- `Tableau Dashboard.twbx` – Tableau packaged workbook with all dashboards and visualizations
+
 ## 📄 License
 
 This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
